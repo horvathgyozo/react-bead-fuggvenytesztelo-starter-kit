@@ -73,7 +73,7 @@ npm install
 ## Futtatás
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Tesztelés
